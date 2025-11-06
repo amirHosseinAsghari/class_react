@@ -1,0 +1,11 @@
+.AppContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.ButtonContainer {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
